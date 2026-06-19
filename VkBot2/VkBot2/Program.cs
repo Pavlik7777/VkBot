@@ -5,7 +5,7 @@ using System;
 using System.Collections.Generic;
 using System.Threading;
 
-string accessToken = "vk1.a.mVansOH371rJuWuvUBg4C6Nqs3aRPWd4sbYQTQkkrgeUbHXWk_0r_jkC-h15KYoAU_Lelvl-eAXqYzublEsg2pMhDfqCTs10QG1hud78KKZt_lTfZ2iJx7lnCu0fWRRW3R5o79xH7k-jETYsKFHsvkPWTgXOu5b_BRUm2hZbJBlYLZmvfJZjV2q9ilRepdNexyuocloKiuFyhL6P_90tfg";
+string accessToken = "vk1.a.CO2QQovwEx871nF6fZGFxV75MZsj443nI7og8FsQW8YZLkd0DYMiihKOFj63JD0X3NTEEsaRrc6GiPHtChtlyuPwrg8T5eii4fmKdqoTaYOg8Itj0aZ4K-InHNkAqwZzNC2rzE8JCclq10-3OSER8e1HNtCpH1MkUmeo-rOyHXs4uTyY0-TGXCEKopP_1kUdD9MmFAKx3ywgE1zBBOrjxw";
 string groupURL = "https://vk.com/club239161894";
 VkBot bot = new VkBot(accessToken, groupURL);
 
